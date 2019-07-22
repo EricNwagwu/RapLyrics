@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RapLyrics/static/css/main.2cce8147.chunk.css",
+    "main.js": "/RapLyrics/static/js/main.2970949c.chunk.js",
+    "main.js.map": "/RapLyrics/static/js/main.2970949c.chunk.js.map",
+    "runtime~main.js": "/RapLyrics/static/js/runtime~main.564ce9b3.js",
+    "runtime~main.js.map": "/RapLyrics/static/js/runtime~main.564ce9b3.js.map",
+    "static/js/2.b41502e9.chunk.js": "/RapLyrics/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/RapLyrics/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/RapLyrics/index.html",
+    "precache-manifest.d50fe5d573ab26fc9bbbf3c4fab7f1cd.js": "/RapLyrics/precache-manifest.d50fe5d573ab26fc9bbbf3c4fab7f1cd.js",
+    "service-worker.js": "/RapLyrics/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/RapLyrics/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/RapLyrics/static/media/logo.5d5d9eef.svg"
+  }
+}
